@@ -26,9 +26,6 @@ Detectar errores en funcionalidades críticas y asegurar la calidad del software
 ## 📊 Resultados
 Se identificaron errores en flujos críticos que fueron documentados y corregidos antes de su liberación.
 
-## 📷 Evidencia
-(Aquí puedes subir imágenes o capturas)
-
 ## 📬 Contacto
 - Email: jandresp477@gmail.com
 - LinkedIn: https://www.linkedin.com/in/andrés-pérez-466550374
