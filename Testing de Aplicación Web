@@ -1,0 +1,14 @@
+Nombre: Testing de Aplicación Web
+
+Contexto:
+Se realizó la validación de una aplicación web para asegurar su correcto funcionamiento antes de producción.
+
+Análisis:
+Se ejecutaron pruebas funcionales y de regresión, identificando errores en flujos críticos.
+
+Conclusión:
+Se logró detectar fallos importantes que afectaban la experiencia del usuario.
+
+Herramientas:
+Postman, MySQL, Test Cases, Bug Tracking
+
