@@ -31,4 +31,4 @@ Se identificaron errores en flujos críticos que fueron documentados y corregido
 
 ## 📬 Contacto
 - Email: jandresp477@gmail.com
-- LinkedIn: (tu link)
+- LinkedIn: https://www.linkedin.com/in/andrés-pérez-466550374
